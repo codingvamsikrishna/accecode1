@@ -1,4 +1,4 @@
--- write a program to print right angled triangle using pattern method
+- write a program to print right angled triangle using pattern method
 
 for i in range(1,6):
 
